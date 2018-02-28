@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dice App</string>
+    <string name="throw_dice">Roll</string>
+    <string name="qty_of_dice">Choose number of dice</string>
+    <string name="dice_type">How many sides should have your die?</string>
+    <string name="result">Result:</string>
+</resources>

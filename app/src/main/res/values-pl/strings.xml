@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Kostka App</string>
+    <string name="throw_dice">Rzuć</string>
+    <string name="qty_of_dice">Iloma kostkami chcesz rzucić</string>
+    <string name="dice_type">Wybierz rodzaj kostki  \n(ile ścian ma mieć kostka?)</string>
+    <string name="result">Wynik:</string>
+</resources>
